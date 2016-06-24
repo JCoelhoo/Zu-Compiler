@@ -1,8 +1,0 @@
-new context
-3
-3.3
-RET TYPE 3
-new context
-0
-calling f
-PRINT TYPE is 5
